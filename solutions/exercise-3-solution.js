@@ -58,4 +58,4 @@ function calcAverage(pizzaPlace) {
   return (sum / count).toFixed(2);
 }
 
-// console.log(calcAverage(dominos));
+//console.log(calcAverage(dominos));
